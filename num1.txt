@@ -2,6 +2,3 @@
 begin
 print("hello, world!");
 end;
-//jha;hjf
-/hkajhd;ksj
-//kdjahfpj
