@@ -16,3 +16,4 @@ end;
 images/
 */
 /*another addons*/
+//more information, please!
